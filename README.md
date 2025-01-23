@@ -56,9 +56,9 @@ A web application that leverages the Spotify Web API to provide personalized mus
 6.	Visit the app in your browser at http://localhost:8080.
 
 Future Enhancements 🔮
-•	Add social sharing features (e.g., share your stats with friends).
-•	Integrate AI to suggest music based on text input (e.g., “I feel happy”).
-•	Implement caching to improve performance.
+-	Add social sharing features (e.g., share your stats with friends).
+-	Integrate AI to suggest music based on text input (e.g., “I feel happy”).
+-	Implement caching to improve performance.
 
 Contributing 🤝
 
