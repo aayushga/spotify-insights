@@ -69,5 +69,5 @@ License 📜
 This project is licensed under the MIT License.
 
 Acknowledgments 💖
-•	Thanks to Spotify for providing the API.
-•	Inspiration from Spotify Wrapped.
+-	Thanks to Spotify for providing the API.
+-	Inspiration from Spotify Wrapped.
