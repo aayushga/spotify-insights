@@ -55,6 +55,9 @@ A web application that leverages the Spotify Web API to provide personalized mus
 
 6.	Visit the app in your browser at http://localhost:8080.
 
+Note: Due to recent changes in Spotify’s Web API policies effective November 27, 2024, certain endpoints such as recommendations are no longer accessible to new applications or those in development mode without a pending extension request. Consequently, this application has been updated to remove the recommendations feature and now focuses on creating playlists based on the user’s top tracks.
+More Info: https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api
+
 Future Enhancements 🔮
 -	Add social sharing features (e.g., share your stats with friends).
 -	Integrate AI to suggest music based on text input (e.g., “I feel happy”).
